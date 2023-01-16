@@ -4,7 +4,7 @@ This repository is starter template for getting started with express and jest in
 ### Installation
 1. Clone this repository
 2. Install node >=16 if not installed.
-3. Run following command
+3. Run following command to install required packages
 ```
 npm install
 ```
