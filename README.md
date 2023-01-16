@@ -1,4 +1,4 @@
-# A Node JS starter template 
+# An express.js starter template 
 This repository is starter template for getting started with express and jest integration quickly.
 
 ### Installation
