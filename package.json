@@ -1,8 +1,8 @@
 {
-  "name": "devops_assignment",
+  "name": "express-starter",
   "version": "1.0.0",
   "description": "Node.js Hello World",
-  "author": "Rahul Gavande <rapidclue@gmail.com>",
+  "author": "Rahul <rapidclue@gmail.com>",
   "main": "server.js",
   "scripts": {
     "start": "node app/server.js",
